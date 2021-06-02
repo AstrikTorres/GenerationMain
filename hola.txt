@@ -1,1 +1,3 @@
-hi
+hola
+mi nombre es Astrik
+tengo 19 años
